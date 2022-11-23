@@ -11,7 +11,7 @@ Played with two teams, state is stored in local storage automatically.
 	// Keys are the categories
 	"Category name": [
 		// Each category consists of an array of question objects
-		{ "answer": "No", "question": "What is not yes?", "difficult": 100 }
+		{ "answer": "No", "question": "What is not yes?", "difficulty": 100 }
 	],
 }
 ```
